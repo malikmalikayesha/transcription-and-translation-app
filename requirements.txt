@@ -1,0 +1,5 @@
+whisper
+gradio
+torch
+openai-whisper
+deep_translator
